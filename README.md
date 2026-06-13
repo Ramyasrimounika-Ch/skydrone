@@ -24,7 +24,9 @@ This project focuses on detecting Ground Control Points (GCPs) in high-resolutio
 - Square: 328
 - Cross: 177
 
----
+## Model Weights
+
+https://drive.google.com/file/d/1Gl8og_6c5muVQkQLJMt2HKTALI7uZW96/view?usp=sharing
 
 ## 🔍 Exploratory Data Analysis (EDA)
 Key insights from dataset:
